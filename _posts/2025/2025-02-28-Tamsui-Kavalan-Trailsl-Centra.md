@@ -11,4 +11,4 @@ categories: hiking
 - 03/08(六) 淡蘭古道中段(３)：柑腳→灣潭
 - 03/15(六) 淡蘭古道中段(４)：灣潭→外澳
 
-<iframe src="https://www.google.com/maps/d/view?mid=1sAZbuCyMfmWgEIYS3kHFt97HOY11M70&usp=sharing" width="640" height="480"></iframe>
+<iframe src="https://www.google.com/maps/d/view?mid=1sAZbuCyMfmWgEIYS3kHFt97HOY11M70&usp=sharing" width="800" height="480"></iframe>
