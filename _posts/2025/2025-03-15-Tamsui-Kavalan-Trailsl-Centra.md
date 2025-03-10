@@ -1,8 +1,7 @@
 ---
 layout: post
 title: 淡蘭古道中路
-categories: travel
-nav_exclude: true
+categories: hiking
 ---
 
 這次淡蘭古道中路，原預計分４段完成，但第一天出發天氣不佳，只好將前二段一起走完。
