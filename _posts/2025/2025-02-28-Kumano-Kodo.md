@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 熊野古道中邊路 行前計劃
 categories: hiking
+title: 熊野古道中邊路 行前計劃
 ---
 
 熊野三山指的是`新宮熊野速玉大社`、`田邊熊野本宮大社`以及位於**那智勝浦**的`熊野那智大社`，而自古以來參拜熊本三山所走的道路則被稱為「熊野古道」。
@@ -21,6 +21,8 @@ categories: hiking
 沿途有被統稱為九十九王子的神社群遺址，據說出巡的上皇・貴族們在御幸的途中，會選擇在各個王子神社稍做歇息、吟詠和歌。
 在新宮內，就有4條屬於中邊路的路線在此通過；分別是山路的「大雲取越」與「小雲取越」，連結`熊野那智大社`與新宮市的沿海路線「高野坂」，以及可以搭乘小船順熊野河而下的「水上熊野古道」。
 
-[GPX軌跡檔下載](/assets/gpx/淡蘭古道中路.gpx)．[GDB軌跡檔下載](/assets/gpx/淡蘭古道中路.gdb) 
-<iframe src="https://www.google.com/maps/d/view?mid=114ipxH5ZUzye1KSAz3IEDN9ynySK0D8&usp=sharing" width="100%" height="600"></iframe>
+[GPX軌跡檔下載](/assets/gpx/淡蘭古道中路.gpx)．[GDB軌跡檔下載](/assets/gpx/淡蘭古道中路.gdb)．[Google地圖](https://www.google.com/maps/d/view?mid=114ipxH5ZUzye1KSAz3IEDN9ynySK0D8&ll=33.78655059311122%2C135.7088082070073&z=118)
+<iframe src="https://www.google.com/maps/d/embed?mid=114ipxH5ZUzye1KSAz3IEDN9ynySK0D8&ehbc=2E312F" width="100%" height="600"></iframe>
+
+
 
