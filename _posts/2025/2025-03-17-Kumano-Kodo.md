@@ -43,12 +43,12 @@ title: 熊野古道中邊路 行前計劃
 <tr class='text-bold'><td colspan='2'>D3. 3/30 (日)</td></tr>
 <tr>
   <td>清姬之墓<br/>→潼尻王子<br/>→近露<br/>→繼櫻王子<br/><span class='text-blue'>[宿]MorinonakaGuestHouse</span></td>
-  <td>滝尻王子<br/>05.不寢王子<br/>06.高原熊野神社<br/>07.大門王子<br/>08.十丈王子<br/>09.大坂本王子<br/>10.牛馬童子<br/>11.近露王子</td>
+  <td>04.滝尻王子<br/>05.不寢王子<br/>06.高原熊野神社<br/>07.大門王子<br/>08.十丈王子<br/>09.大坂本王子<br/>10.牛馬童子<br/>11.近露王子</td>
 </tr>
 <tr class='text-bold'><td colspan='2'>D4. 3/31 (一)</td></tr>
 <tr>
   <td>繼櫻王子<br/>→湯峰王子<br/>→川湯<br/><span class='text-blue'>[宿]山水館川湯松屋酒店</span></td>
-  <td>12.繼櫻王子<br/>13.秀衡櫻<br/>14.蛇形地蔵<br/>15.湯川王子<br/>16.猪鼻王子<br/>17.發心門王子<br/>18.水吞王子<br/>19.伏拜王子<br/>20.祓殿王子<br/>21.熊野本宮大社<br/>22.旧社地大齎原<br/>23.湯峯王子</td>
+  <td>12.繼櫻王子<br/>13.秀衡櫻<br/>14.蛇形地蔵<br/>15.湯川王子<br/>16.猪鼻王子<br/>17.發心門王子<br/>18.水吞王子<br/>19.伏拜王子<br/>20.祓殿王子<br/>21.熊野本宮大社<br/>22.旧社地大斎原<br/>23.湯峯王子</td>
 </tr>
 <tr class='text-bold'><td colspan='2'>D5. 3/31 (一)</td></tr>
 <tr>
@@ -63,7 +63,7 @@ title: 熊野古道中邊路 行前計劃
 <tr class='text-bold'><td colspan='2'>D7. 4/3 (四)</td></tr>
 <tr>
   <td>紀伊勝浦<br/>→新宮<br/><span class='text-blue'>[宿]浦島飯店</span></td>
-  <td>32.市野の王子<br/>31.補陀洛山寺<br/>30.濱之宮王子<br/>28.高野坂<br/>29.小狗子峠</td>
+  <td>32.市野の王子<br/>31.補陀洛山寺<br/>30.浜の宮王子<br/>28.高野坂<br/>29.小狗子峠</td>
 </tr>
 <tr class='text-bold'><td colspan='2'>D8. 4/4 (五)</td></tr>
 <tr>
