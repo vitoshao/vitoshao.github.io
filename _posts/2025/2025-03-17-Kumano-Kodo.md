@@ -50,12 +50,12 @@ title: 熊野古道中邊路 行前計劃
   <td>繼櫻王子<br/>→湯峰王子<br/>→川湯<br/><span class='text-blue'>[宿]山水館川湯松屋酒店</span></td>
   <td>12.繼櫻王子<br/>13.秀衡櫻<br/>14.蛇形地蔵<br/>15.湯川王子<br/>16.猪鼻王子<br/>17.發心門王子<br/>18.水吞王子<br/>19.伏拜王子<br/>20.祓殿王子<br/>21.熊野本宮大社<br/>22.旧社地大齎原<br/>23.湯峯王子</td>
 </tr>
-<tr class='text-bold'><td colspan='2'>D4. 3/31 (一)</td></tr>
+<tr class='text-bold'><td colspan='2'>D5. 3/31 (一)</td></tr>
 <tr>
   <td>請川→小口<br/>→川の古道 14:30<br/>→新宮<br/><span class='text-blue'>[宿]新宮-Hanare</span></td>
   <td>41.請川<br/>40.石堂茶屋跡<br/>39.小和瀨渡丨場跡<br/>24.川之古道<br/>25.熊野速玉大社<br/>26.神倉神社(5:00-17:00)<br/>27.阿須賀神社</td>
 </tr>
-<tr class='text-bold'><td colspan='2'>D4. 3/31 (一)</td></tr>
+<tr class='text-bold'><td colspan='2'>D6. 3/31 (一)</td></tr>
 <tr>
   <td>新宮<br/>→小口<br/>→那智大社<br/>→紀伊勝浦<br/><span class='text-blue'>[宿]花之禦宿旅館</span></td>
   <td>38.小口(大雲登山口)<br/>37.地蔵茶屋跡<br/>36.青岸渡寺(7:00-16:30)<br/>35.熊野那智大社(7:00-16:30)<br/>34.飛瀧神社(那智御瀧)(7:00-16:30)<br/>33.多富氣王子</td>
