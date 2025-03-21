@@ -3,7 +3,8 @@ layout: post
 categories: hiking
 title: 熊野古道中邊路 行前計劃
 ---
-![File](/assets/images/kumanokodo.png)
+
+![Kumanokodo](/assets/images/kumanokodo.png)
 
 ### 前言
 
