@@ -3,6 +3,9 @@ layout: post
 categories: hiking
 title: 淡蘭古道中路
 ---
+
+![File](/assets/images/Tamsui-Kavalan-Trails-Centra.png)
+
 ## 前言
 
 這條淡蘭古道中路，原預計分四次完成，但第一次出發就遇到天氣不佳，只好延到第二次一起走。

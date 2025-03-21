@@ -4,7 +4,7 @@ categories: hiking
 title: 熊野古道中邊路 行前計劃
 ---
 
-![Kumanokodo](/assets/images/kumanokodo.png)
+![Kumanokodo](/assets/images/Kumano-Kodo.png)
 
 ### 前言
 
