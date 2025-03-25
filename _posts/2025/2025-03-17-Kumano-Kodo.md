@@ -83,4 +83,9 @@ title: 熊野古道中邊路 行前計劃
 <iframe src="https://www.google.com/maps/d/embed?mid=114ipxH5ZUzye1KSAz3IEDN9ynySK0D8&ehbc=2E312F" width="100%" height="600"></iframe>
 
 
+### 參考資料
 
+- <a target="_blank" href="https://www.tb-kumano.jp/en/kumano-kodo/">熊野古道</a>
+- <a target="_blank" href="https://www.data.jma.go.jp/multi/yoho/yoho_detail.html?code=300020&lang=cn_zt">日本氣象廳</a>
+- <a target="_blank" href="https://smallove.pixnet.net/blog/post/47755380">熊野古道攻略 - 中邊路完全踏破</a>
+- <a target="_blank" href="https://docs.google.com/spreadsheets/d/1cYWkN_VGSJ8lkYqYSWB6xRqG2dRygB_0/edit?fbclid=IwY2xjawJO0R1leHRuA2FlbQIxMAABHXdhNWOmCFbzrXue0DRWKBjVuVQ1BOpZLVmXwZNtfwhZ0Pa5eLfbW2eS8A_aem_CIWx3tjIrOGZhMGrhXWd-Q&gid=1825328556#gid=1825328556">曼達熊野古道踏破中邊路9天8夜</a>

@@ -20,7 +20,7 @@ title: 淡蘭古道中路
 [GPX軌跡檔下載](/assets/gpx/淡蘭古道中路.gpx)．[GDB軌跡檔下載](/assets/gpx/淡蘭古道中路.gdb) 
 <iframe src="https://www.google.com/maps/d/embed?mid=1sAZbuCyMfmWgEIYS3kHFt97HOY11M70&ehbc=2E312F" width="100%" height="600"></iframe>
 
-## 預計行程軌跡地圖
+## 實際行程軌跡地圖
 
 [GPX軌跡檔下載](/assets/gpx/淡蘭古道中路_記錄.gpx)．[GDB軌跡檔下載](/assets/gpx/淡蘭古道中路_記錄.gdb) 
 <iframe src="https://www.google.com/maps/d/embed?mid=11Y2ItetqmKXM5IZ1UQkUjrc4OE1QLbI&ehbc=2E312F" width="100%" height="600"></iframe>
