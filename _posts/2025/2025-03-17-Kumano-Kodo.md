@@ -37,44 +37,46 @@ title: 熊野古道中邊路 行前計劃
 
 <table>
 <tr class='text-bold'><td>行程/住宿</td><td>押印點</td></tr>
-<tr class='text-bold'><td colspan='2'>D1. 3/28 (五)</td></tr>
+<tr class='text-bold'><td colspan='2'>D1. 3/28 (五) <span class='text-bold text-red-dk'>集合時間：9:15 第一航廈, 國泰櫃檯</span></td></tr>
 <tr class='text-grey-dk'>
-  <td>桃園(CX564,11:15)<br/>→關西機場14:55<br/>→和歌山<br/>→紀伊田邊<br/><span class='text-orange-dk'>[宿]Guesthouse Fukufuku</span></td>
+  <td>  
+  <br/>桃園(CX564,11:15)  
+  <br/>→關西機場14:55<br/>→和歌山<br/>→紀伊田邊<br/><span class='text-green-dk text-bold '>[宿]Guesthouse Fukufuku</span></td>
   <td></td>
 </tr>
 <tr class='text-bold'><td colspan='2'>D2. 3/29 (六)</td></tr>
 <tr class='text-grey-dk'>
-  <td>紀伊田邊(9:05公車)<br/>→清姬之墓<br/><span class='text-orange-dk'>[宿]GuestHouse Kiyohime</span></td>  
+  <td>紀伊田邊(9:05公車)<br/>→清姬之墓<br/><span class='text-green-dk text-bold '>[宿]GuestHouse Kiyohime</span></td>  
   <td>01.稻葉根王子<br/>02.北郡越<br/>03.潮見峠越</td>
 </tr>
 <tr class='text-bold'><td colspan='2'>D3. 3/30 (日)</td></tr>
 <tr class='text-grey-dk'>
-  <td>清姬之墓<br/>→潼尻王子<br/>→近露<br/>→繼櫻王子<br/><span class='text-orange-dk'>[宿]Morinonaka GuestHouse</span></td>
+  <td>清姬之墓<br/>→潼尻王子<br/>→近露<br/>→繼櫻王子<br/><span class='text-green-dk text-bold '>[宿]Morinonaka GuestHouse(森之民宿,附早餐)</span></td>
   <td>04.滝尻王子<br/>05.不寢王子<br/>06.高原熊野神社<br/>07.大門王子<br/>08.十丈王子<br/>09.大坂本王子<br/>10.牛馬童子<br/>11.近露王子</td>
 </tr>
 <tr class='text-bold'><td colspan='2'>D4. 3/31 (一)</td></tr>
 <tr>
-  <td>繼櫻王子<br/>→湯峰王子<br/>→川湯<br/><span class='text-orange-dk'>[宿]山水館川湯松屋酒店</span></td>
+  <td>繼櫻王子<br/>→湯峰王子<br/>→川湯<br/><span class='text-green-dk text-bold '>[宿]山水館川湯松屋酒店(附早餐)</span></td>
   <td>12.繼櫻王子<br/>13.秀衡櫻<br/>14.蛇形地蔵<br/>15.湯川王子<br/>16.猪鼻王子<br/>17.發心門王子<br/>18.水吞王子<br/>19.伏拜王子<br/>20.祓殿王子<br/>21.熊野本宮大社<br/>22.旧社地大斎原<br/>23.湯峯王子</td>
 </tr>
 <tr class='text-bold'><td colspan='2'>D5. 4/1 (二)</td></tr>
 <tr>
-  <td>請川→小口<br/>→川の古道 14:30<br/>→新宮<br/><span class='text-orange-dk'>[宿]新宮-Hanare</span></td>
+  <td>請川→小口<br/>→川の古道 14:30<br/>→新宮<br/><span class='text-green-dk text-bold '>[宿]新宮-Hanare</span></td>
   <td>41.請川<br/>40.石堂茶屋跡<br/>39.小和瀨渡し場跡<br/>24.川之古道<br/>25.熊野速玉大社<br/>26.神倉神社(5:00-17:00)<br/>27.阿須賀神社</td>
 </tr>
 <tr class='text-bold'><td colspan='2'>D6. 4/2 (三)</td></tr>
 <tr>
-  <td>新宮<br/>→小口<br/>→那智大社<br/>→紀伊勝浦<br/><span class='text-orange-dk'>[宿]花之禦宿旅館</span></td>
+  <td>新宮<br/>→小口<br/>→那智大社<br/>→紀伊勝浦<br/><span class='text-green-dk text-bold '>[宿]花之禦宿旅館</span></td>
   <td>38.小口(大雲登山口)<br/>37.地蔵茶屋跡<br/>36.青岸渡寺(7:00-16:30)<br/>35.熊野那智大社(7:00-16:30)<br/>34.飛瀧神社(那智御瀧)(7:00-16:30)<br/>33.多富氣王子</td>
 </tr>
 <tr class='text-bold'><td colspan='2'>D7. 4/3 (四)</td></tr>
 <tr>
-  <td>紀伊勝浦<br/>→新宮<br/><span class='text-orange-dk'>[宿]浦島酒店</span></td>
+  <td>紀伊勝浦<br/>→新宮<br/><span class='text-green-dk text-bold '>[宿]浦島酒店</span></td>
   <td>32.市野の王子<br/>31.補陀洛山寺<br/>30.浜の宮王子<br/>28.高野坂<br/>29.小狗子峠</td>
 </tr>
 <tr class='text-bold'><td colspan='2'>D8. 4/4 (五)</td></tr>
 <tr>
-  <td>新宮<br/>→和歌山(JR火車黑潮號)<br/>11:27/13:29/17:46<br/><span class='text-orange-dk'>[宿]和歌山康福特茵酒店</span></td>
+  <td>新宮<br/>→和歌山(JR火車黑潮號)<br/>11:27/13:29/17:46<br/><span class='text-green-dk text-bold '>[宿]和歌山康福特茵酒店(附早餐)</span></td>
   <td>機動行程</td>
 </tr>
 <tr class='text-bold'><td colspan='2'>D9. 4/5 (六)</td></tr>
