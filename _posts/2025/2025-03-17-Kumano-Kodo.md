@@ -51,12 +51,12 @@ title: 熊野古道中邊路 行前計劃
 </tr>
 <tr class='text-bold'><td colspan='2'>D3. 3/30 (日)</td></tr>
 <tr class='text-grey-dk'>
-  <td>清姬之墓<br/>→潼尻王子<br/>→近露<br/>→繼櫻王子<br/><span class='text-green-dk text-bold '>[宿]Morinonaka GuestHouse(森之民宿,附早餐)</span></td>
+  <td>清姬之墓<br/>→潼尻王子<br/>→近露<br/>→繼櫻王子<br/><span class='text-green-dk text-bold '>[宿]Morinonaka GuestHouse<br/>(森之民宿,附早餐)</span></td>
   <td>04.滝尻王子<br/>05.不寢王子<br/>06.高原熊野神社<br/>07.大門王子<br/>08.十丈王子<br/>09.大坂本王子<br/>10.牛馬童子<br/>11.近露王子</td>
 </tr>
 <tr class='text-bold'><td colspan='2'>D4. 3/31 (一)</td></tr>
 <tr>
-  <td>繼櫻王子<br/>→湯峰王子<br/>→川湯<br/><span class='text-green-dk text-bold '>[宿]山水館川湯松屋酒店(附早餐)</span></td>
+  <td>繼櫻王子<br/>→湯峰王子<br/>→川湯<br/><span class='text-green-dk text-bold '>[宿]山水館川湯松屋酒店<br/>(附早餐)</span></td>
   <td>12.繼櫻王子<br/>13.秀衡櫻<br/>14.蛇形地蔵<br/>15.湯川王子<br/>16.猪鼻王子<br/>17.發心門王子<br/>18.水吞王子<br/>19.伏拜王子<br/>20.祓殿王子<br/>21.熊野本宮大社<br/>22.旧社地大斎原<br/>23.湯峯王子</td>
 </tr>
 <tr class='text-bold'><td colspan='2'>D5. 4/1 (二)</td></tr>
@@ -76,7 +76,7 @@ title: 熊野古道中邊路 行前計劃
 </tr>
 <tr class='text-bold'><td colspan='2'>D8. 4/4 (五)</td></tr>
 <tr>
-  <td>新宮<br/>→和歌山(JR火車黑潮號)<br/>11:27/13:29/17:46<br/><span class='text-green-dk text-bold '>[宿]和歌山康福特茵酒店(附早餐)</span></td>
+  <td>新宮<br/>→和歌山(JR火車黑潮號)<br/>11:27/13:29/17:46<br/><span class='text-green-dk text-bold '>[宿]和歌山康福特茵酒店<br/>(附早餐)</span></td>
   <td>機動行程</td>
 </tr>
 <tr class='text-bold'><td colspan='2'>D9. 4/5 (六)</td></tr>
