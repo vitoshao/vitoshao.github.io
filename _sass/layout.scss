@@ -1,58 +1,55 @@
 // The basic two column layout
 
 .side-bar {
-  z-index: 0;
-  display: flex;
-  flex-wrap: wrap;
-  background-color: $sidebar-color;
+    z-index: 0;
+    display: flex;
+    flex-wrap: wrap;
+    background-color: $sidebar-color;
 
-  @include mq(md) {
-    flex-flow: column nowrap;
-    position: fixed;
-    width: $nav-width-md;
-    height: 100%;
-    border-right: $border $border-color;
-    align-items: flex-end;
-  }
-
-  @include mq(lg) {
+    @include mq(md) {
+        flex-flow: column nowrap;
+        position: fixed;
+        width: $nav-width-md;
+        height: 100%;
+        border-right: $border $border-color;
+        align-items: flex-end;
+    }
+    //removed by vito 20260121
+    /*  @include mq(lg) {
     width: calc((100% - #{$nav-width + $content-width}) / 2 + #{$nav-width});
     min-width: $nav-width;
-  }
+  }*/
 
-  & + .main {
-    @include mq(md) {
-      margin-left: $nav-width-md;
-    }
-
-    @include mq(lg) {
-      // stylelint-disable function-name-case
-      // disable for Max(), we want to use the CSS max() function
-      margin-left: Max(
-        #{$nav-width},
-        calc((100% - #{$nav-width + $content-width}) / 2 + #{$nav-width})
-      );
-      // stylelint-enable function-name-case
-    }
-
-    .main-header {
-      display: none;
-      background-color: $sidebar-color;
-
-      @include mq(md) {
-        display: flex;
-        background-color: $body-background-color;
-      }
-
-      &.nav-open {
-        display: block;
-
+    & + .main {
         @include mq(md) {
-          display: flex;
+            margin-left: $nav-width-md;
         }
-      }
+
+/*        @include mq(lg) {
+            // stylelint-disable function-name-case
+            // disable for Max(), we want to use the CSS max() function
+            margin-left: Max( #{$nav-width}, calc((100% - #{$nav-width + $content-width}) / 2 + #{$nav-width}) );
+            // stylelint-enable function-name-case
+        }*/
+
+        .main-header {
+            display: none;
+            background-color: $sidebar-color;
+
+            @include mq(md) {
+                display: flex;
+                background-color: $body-background-color;
+            }
+
+            &.nav-open {
+                display: block;
+
+                @include mq(md) {
+                    display: flex;
+                }
+            }
+        }
     }
-  }
 }
 
 .main {
@@ -106,7 +103,7 @@
 
   @include mq(md) {
     display: block;
-    padding-top: $sp-8;
+    /*padding-top: $sp-8;*/ // removed by vito 20260121
     padding-bottom: $gutter-spacing-sm;
     overflow-y: auto;
     flex: 1 1 auto;
