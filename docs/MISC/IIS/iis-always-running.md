@@ -14,7 +14,7 @@ tags:
 
 ## 設定步驟
 IIS 安裝時必須要包括「應用程式初始化」
-![應用程式初始化](images/application-init.png)
+![應用程式初始化](../images/application-init.png)
 
 ## 應用程式集區的設定
 

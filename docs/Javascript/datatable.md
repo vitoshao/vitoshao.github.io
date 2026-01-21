@@ -11,7 +11,6 @@ tags:
 相關套件
 
 # 初始化設定
-
 ![Datatable Style 1](images/datatable-style-1.png)
 
 ```js
