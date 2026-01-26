@@ -3,11 +3,12 @@ gemspec
 
 gem "base64"
 gem "csv"
-
 gem "jekyll-github-metadata", ">= 2.15"
 
 gem "jekyll-include-cache", group: :jekyll_plugins
 gem "jekyll-sitemap", group: :jekyll_plugins
+
+gem "just-the-docs", "0.12.0" # pinned to the current release
 
 group :development, :test do
   gem "html-proofer", "~> 5.2"

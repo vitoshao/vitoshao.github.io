@@ -114,7 +114,7 @@ Markdown 語法建立的連結無法另開新頁籤
 
 Markdown 語法建立的圖片無法更改顯示大小
 
-![Sample](images/sample.jpg)
+![Sample](/misc/images/sample.jpg)
 
 若要更改顯示大小，只能使用 html
 
