@@ -1,7 +1,7 @@
 ---
 title: EF 的 Loading 模式
 layout: default
-parent: EntityFramework
+parent: Entity Framework
 nav_order: 2
 description: "EF 的 Loading 模式"
 date: 2016-02-25

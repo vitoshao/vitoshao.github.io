@@ -1,7 +1,7 @@
 ---
 title: 使用 EF 操作關聯性資料
 layout: default
-parent: EntityFramework
+parent: Entity Framework
 nav_order: 3
 description: "使用 EF 操作關聯性資料"
 date: 2016-02-26

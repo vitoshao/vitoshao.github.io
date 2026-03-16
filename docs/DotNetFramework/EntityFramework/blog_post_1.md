@@ -1,7 +1,7 @@
 ---
 title: Entity Framework 4.1
 layout: default
-parent: EntityFramework
+parent: Entity Framework
 nav_order: 1
 description: "Entity Framework 4.1"
 date: 2016-01-28

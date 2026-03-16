@@ -1,5 +1,5 @@
 ---
-title: EntityFramework
+title: Entity Framework
 layout: default
 parent: DotNetFramework
 date: 2016-01-28
