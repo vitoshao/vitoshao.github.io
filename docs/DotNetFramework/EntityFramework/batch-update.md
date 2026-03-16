@@ -3,17 +3,16 @@ title: Sample
 layout: default
 parent: Entity Framework
 nav_order: 1
-description: "...。"
+description: "使用 Entity Framework 進行多筆資料更新"
 date: 2025-01-15
 tags: [Update, Bulk Update, Batch Update]
-nav_exclude: true
 ---
 
-使用 Entity Framework 進行資料更新, 基本上有以下幾種方法：
+使用 Entity Framework 進行多筆資料更新, 基本上有以下幾種方法：
 
 ## 使用 EF Core 的變更追蹤功能
 
-這種方法是透過查詢取得需要更新的實體，然後逐一修改每個實體的屬性，最後呼叫 `SaveChanges()` 方法來將變更保存到資料庫。這種方法適用於少量資料的更新，但在大量資料更新時效能較差，因為每次更新都會產生多次的 SQL 命令。
+這種方法是透過查詢取得需要更新的實體，然後逐一修改每個實體的屬性值，最後呼叫 `SaveChanges()` 方法來將變更保存到資料庫。這種方法適用於少量資料的更新，若資料量大，會因為每次更新都產生 SQL 命令，效能較差。
 
 ```csharp
 using (var context = new MyDbContext())
@@ -107,10 +106,3 @@ using (var context = new MyDbContext())
 ### 缺點:
 - 需要額外安裝 EFCore.BulkExtensions 套件。
 
-
-
-## 參考資料
-- <a target="_blank" href="">XXXXXXXX</a>
-- <a target="_blank" href="">XXXXXXXX</a>
-- <a target="_blank" href="">XXXXXXXX</a>
-- <a target="_blank" href="">XXXXXXXX</a>

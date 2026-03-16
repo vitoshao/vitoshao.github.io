@@ -50,10 +50,11 @@ myTable = $("#MyTable").DataTable({
 
     //凍結設定
     fixedColumns: true,     //設定凍結, 預設標題列和第一欄 (paging必須為true)
-    scrollCollapse: true,
+    
     scroller: true,
     scrollY: 200,           //Y捲軸高度200, 超過才顯示Y捲軸
-
+    scrollCollapse: true,   //當內容不足高度時, 是否折疊table高度
+    paging: false,          //設定Y捲軸, 分頁功能通常會關閉
     columns: [
         {
             "sTitle": "年度",
