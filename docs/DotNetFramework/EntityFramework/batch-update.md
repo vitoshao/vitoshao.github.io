@@ -1,5 +1,5 @@
 ---
-title: Sample
+title: EF Core 大量資料處理 
 layout: default
 parent: Entity Framework
 nav_order: 1
